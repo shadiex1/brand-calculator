@@ -8,10 +8,10 @@ import Img3 from "./assets/amex.png";
 import card from "./assets/card.png";
 class App extends Component {
   state = {
-    vendor: 8,
-    media: 8,
-    corpSpend: 8,
-    teamProject: 8,
+    vendor: 0,
+    media:0,
+    corpSpend: 0,
+    teamProject:0 ,
     brands: [
       { multiply: 0.3, img: Img1, name: "brex" },
       { multiply: 2.9, img: Img2, name: "stripe" },
