@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shadiex1/brand-calculator/static/css/main.af8348da.chunk.css",
-    "main.js": "/shadiex1/brand-calculator/static/js/main.bf89e2c9.chunk.js",
-    "main.js.map": "/shadiex1/brand-calculator/static/js/main.bf89e2c9.chunk.js.map",
-    "runtime-main.js": "/shadiex1/brand-calculator/static/js/runtime-main.97fc7534.js",
-    "runtime-main.js.map": "/shadiex1/brand-calculator/static/js/runtime-main.97fc7534.js.map",
-    "static/js/2.8d33f3a3.chunk.js": "/shadiex1/brand-calculator/static/js/2.8d33f3a3.chunk.js",
-    "static/js/2.8d33f3a3.chunk.js.map": "/shadiex1/brand-calculator/static/js/2.8d33f3a3.chunk.js.map",
-    "static/js/3.16fffc93.chunk.js": "/shadiex1/brand-calculator/static/js/3.16fffc93.chunk.js",
-    "static/js/3.16fffc93.chunk.js.map": "/shadiex1/brand-calculator/static/js/3.16fffc93.chunk.js.map",
-    "index.html": "/shadiex1/brand-calculator/index.html",
-    "static/css/main.af8348da.chunk.css.map": "/shadiex1/brand-calculator/static/css/main.af8348da.chunk.css.map",
-    "static/js/2.8d33f3a3.chunk.js.LICENSE.txt": "/shadiex1/brand-calculator/static/js/2.8d33f3a3.chunk.js.LICENSE.txt",
-    "static/media/amex.0fe75607.png": "/shadiex1/brand-calculator/static/media/amex.0fe75607.png",
-    "static/media/card.ba209599.png": "/shadiex1/brand-calculator/static/media/card.ba209599.png"
+    "main.css": "/brand-calculator/static/css/main.af8348da.chunk.css",
+    "main.js": "/brand-calculator/static/js/main.bf89e2c9.chunk.js",
+    "main.js.map": "/brand-calculator/static/js/main.bf89e2c9.chunk.js.map",
+    "runtime-main.js": "/brand-calculator/static/js/runtime-main.eebf9aca.js",
+    "runtime-main.js.map": "/brand-calculator/static/js/runtime-main.eebf9aca.js.map",
+    "static/js/2.8d33f3a3.chunk.js": "/brand-calculator/static/js/2.8d33f3a3.chunk.js",
+    "static/js/2.8d33f3a3.chunk.js.map": "/brand-calculator/static/js/2.8d33f3a3.chunk.js.map",
+    "static/js/3.16fffc93.chunk.js": "/brand-calculator/static/js/3.16fffc93.chunk.js",
+    "static/js/3.16fffc93.chunk.js.map": "/brand-calculator/static/js/3.16fffc93.chunk.js.map",
+    "index.html": "/brand-calculator/index.html",
+    "static/css/main.af8348da.chunk.css.map": "/brand-calculator/static/css/main.af8348da.chunk.css.map",
+    "static/js/2.8d33f3a3.chunk.js.LICENSE.txt": "/brand-calculator/static/js/2.8d33f3a3.chunk.js.LICENSE.txt",
+    "static/media/amex.0fe75607.png": "/brand-calculator/static/media/amex.0fe75607.png",
+    "static/media/card.ba209599.png": "/brand-calculator/static/media/card.ba209599.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.97fc7534.js",
+    "static/js/runtime-main.eebf9aca.js",
     "static/js/2.8d33f3a3.chunk.js",
     "static/css/main.af8348da.chunk.css",
     "static/js/main.bf89e2c9.chunk.js"
