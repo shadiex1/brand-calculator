@@ -2,7 +2,8 @@
   "name": "brand-calcuator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/shadiex1/brand-calculator",
+  "homepage": "https://shadiex1.github.io/brand-calculator",
+  
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
@@ -20,7 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
